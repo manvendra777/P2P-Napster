@@ -29,22 +29,10 @@
     * ```Select 5 to exit the network```
 
 ## Contributions
-### Manvendra Chavan: 
 * System Design Research 
 * Setting up the AWS Ec2 instances and the cloud environment
 * Leader Election Algorithm 
-* Multicast for super peer server failure Algorithm
-* Research Analysis (Leader Election Algorithm and P2P systems)
-* Documentation 
-
-### Mihir Satra
-* System Design Research
-* Setting up the socket programming code across multiple machines
 * Resource Discovery Algorithm
-* Multicast for super peer server failure Algorithm
-* Research Analysis (Resource Discovery and P2P systems)
-* Documentation
+* Multicast for super peer server failure Algorithm (Gossip)
+* Research Analysis (Leader Election Algorithm and P2P systems) 
 
-### Sakshi Tripathy:
-* Literature Review
-* Documentation
