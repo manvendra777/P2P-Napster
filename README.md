@@ -1,4 +1,4 @@
-# CS 249 Project - Peer to Peer File Sharing System
+# Peer to Peer File Sharing System
 
 ## Minimum Requirements
 * Windows/Ubuntu Operating System
